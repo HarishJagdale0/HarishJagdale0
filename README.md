@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/harish-jagdale-395939281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harish-jagdale-395939281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/harish_jagdale_0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harish_jagdale_0409" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/harish jagdale-reviews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harish jagdale-reviews" height="30" width="40" /></a>
+<a href="www.youtube.com/@HARISH_JAGDALE-reviews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harish jagdale-reviews" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
