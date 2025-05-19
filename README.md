@@ -27,10 +27,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishjagdale0&show_icons=true&locale=en&layout=compact" alt="harishjagdale0" /></p>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarishJagdale0/&show_icons=true&theme=radical)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=HarishJagdale0&theme=radical)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=HarishJagdale0&theme=radical)
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarishJagdale0&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📊 GitHub Stats:
+
+![HarishJagdale0's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarishJagdale0&show_icons=true&theme=radical)
+
+### 🔝 Top Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishJagdale0&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarishJagdale0&theme=radical)](https://git.io/streak-stats)
+
 
 
 
