@@ -27,6 +27,23 @@
 
 ---
 
+### 🏅 Achievements & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/100%2B%20Commits-green?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-blue?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/5%2B%20Projects-orange?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/VS%20Code%20Power%20User-purple?style=flat&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Linux%20User-7749bf?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub%20Expert-red?style=flat&logo=git" />
+</p>
+
+---
+
+
+
+---
+
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HarishJagdale0&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
