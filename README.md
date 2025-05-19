@@ -50,10 +50,6 @@
 
 ---
 
-### 📈 GitHub Activity Graph
-
-[![Harish's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarishJagdale0&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ### 📊 GitHub Stats
