@@ -62,7 +62,7 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HarishJagdale0&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarishJagdale0)](https://git.io/streak-stats)
 
 ---
 
