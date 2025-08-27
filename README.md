@@ -72,7 +72,6 @@
 
 
 
-
 </div>
 
 <br/><br/>
@@ -80,3 +79,14 @@
 <hr/>
 
 <br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarishJagdale0&show_icons=true&locale=en&layout=compact" alt="HarishJagdale0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarishJagdale0&show_icons=true&locale=en" alt="HarishJagdale0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarishJagdale0&" alt="HarishJagdale0" /></p>
+
+
+
+
+
