@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
 <h1 align="center">Hi 👋, I'm HARISH JAGDALE</h1>
 <h3 align="center">A passionate full Stack Web developer from India.</h3>
-<img align="right" alt="Coding" Width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishjagdale0&label=Profile%20views&color=0e75b6&style=flat" alt="harishjagdale0" /> </p>
 
