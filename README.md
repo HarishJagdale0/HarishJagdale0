@@ -13,8 +13,8 @@
 
 ## 👨‍💻 About Me
 - 🔭 Passionate **Software Engineer from India**
-- 💻 Full Stack Developer (MERN / Java / Python)
-- 🌱 Exploring **Cloud, DevOps & System Design**
+- 💻 Full Stack Developer 
+- 🌱 Exploring **AI, Data Science, Cloud, DevOps & System Design**
 - 📝 Writing about **Technical Events & Tech Studies**
 - 📫 Reach me at **jagdaleharish168@gmail.com**
 
