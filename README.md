@@ -69,9 +69,10 @@
 
 ## 🔥 Competitive Coding
 <p>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEEKSFORGEEKS-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding-Ninjas-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ## 📈 Contribution Activity
