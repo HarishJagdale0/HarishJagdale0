@@ -41,7 +41,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,php,ruby,go,rust,kotlin,swift,dart,scala,r,perl,bash" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,vue,nuxtjs,angular,svelte,jquery,redux,vite,webpack" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,fastapi,laravel,rails,graphql" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,fastapi,laravel,rails,graphql" />
 </p>
 
 ---
