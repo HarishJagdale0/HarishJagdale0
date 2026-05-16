@@ -67,10 +67,91 @@
 
 ---
 
-## 🔝 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishJagdale0&layout=compact&theme=radical"/>
+# 🚀 Tech Stack & Languages
+
+<div align="center">
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,php,ruby,go,rust,kotlin,swift,dart,scala,r,perl,bash" />
 </p>
+
+---
+
+## 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,vue,nuxtjs,angular,svelte,jquery,redux,vite,webpack" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,fastapi,laravel,rails,graphql" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase,redis,prisma" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,vercel,netlify,cloudflare,heroku" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,linux,bash,powershell,notion" />
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,kotlin,swift" />
+</p>
+
+---
+
+## 🤖 AI / ML / Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+---
+
+## 🔥 Competitive Coding & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,kubernetes,aws,ai" />
+</p>
+
+</div>
 
 ---
 
