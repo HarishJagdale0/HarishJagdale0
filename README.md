@@ -37,7 +37,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,java,c,cpp,mongodb,mysql,postgres,aws,gcp,docker,git,linux,tailwind,graphql,ts,python,c,cpp,php,bash,sass,tailwind,bootstrap,react,nextjs,resux,vite,webpack,express,spring,django,fastapi,laravel,postman&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,java,c,cpp,mongodb,mysql,postgres,aws,gcp,docker,git,linux,tailwind,graphql,ts,python,c,cpp,php,bash,sass,tailwind,bootstrap,react,nextjs,redux,vite,webpack,express,spring,django,fastapi,laravel,githubpostman&perline=10"/>
 </p>
 
 ---
