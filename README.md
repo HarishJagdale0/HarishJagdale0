@@ -38,6 +38,10 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,java,c,cpp,mongodb,mysql,postgres,aws,gcp,docker,git,linux,tailwind,graphql,postman&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,php,ruby,go,rust,kotlin,swift,dart,scala,r,perl,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,vue,nuxtjs,angular,svelte,jquery,redux,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,fastapi,laravel,rails,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,fastapi,laravel,rails,graphql" />
 </p>
 
 ---
@@ -65,40 +69,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarishJagdale0&theme=radical"/>
 </p>
 
----
-
-# 🚀 Tech Stack & Languages
-
-<div align="center">
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,php,ruby,go,rust,kotlin,swift,dart,scala,r,perl,bash" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,vue,nuxtjs,angular,svelte,jquery,redux,vite,webpack" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,fastapi,laravel,rails,graphql" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase,redis,prisma" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,vercel,netlify,cloudflare,heroku" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,linux,bash,powershell,notion" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,kotlin,swift" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,kubernetes,aws,ai" />
-</p>
-
-</div>
 ---
 
 ## 🔥 Competitive Coding
